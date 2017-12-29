@@ -7,8 +7,7 @@
 Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
 
 
-### Projects
-**Bold**
+### Projects and Research
 - **SAT Solver – Automated Reasoning in AI**
   Wrote a custom SAT Solver by implementing DPLL and CDCL algorithms. C++. [Link](https://github.com/tswapnil/SAT-Solver)
 - **Stance Detection on News Articles** 
