@@ -4,7 +4,9 @@
    
 ### Resume
 ```markdown
-Checkout my resume``` [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
+Checkout my resume
+``` 
+[here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
 
 
 ### Projects and Research
