@@ -9,7 +9,7 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 ```markdown
 
 ### Projects
-
+**Bold**
 - **SAT Solver – Automated Reasoning in AI**
   Wrote a custom SAT Solver by implementing DPLL and CDCL algorithms. C++. [Link](https://github.com/tswapnil/SAT-Solver)
 - **Stance Detection on News Articles** 
