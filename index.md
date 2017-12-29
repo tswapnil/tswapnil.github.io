@@ -58,4 +58,4 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 
 
 ### Contact
-  Why not just shoot me a nice [email](tanejaswapnil@gmail.com).
+  Why not just shoot me a nice [email](********tanejaswapnil@gmail.com**********).
