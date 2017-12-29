@@ -1,11 +1,15 @@
 ## Welcome to Swapnil Taneja's page
 
-   I am a CSE grad student at UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve problems algorithmically. 
+   I am a CSE grad student at UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve real life problems algorithmically. 
+   
+- Riddle me this - 
+   Voiceless it cries,
+   Wingless flutters,
+   Toothless bites,
+   Mouthless mutters.
    
 ### Resume
-
 Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
-
 
 ### Projects and Research
 - **SAT Solver – Automated Reasoning in AI**
@@ -52,5 +56,5 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
   Implemented facial recognition for passersby on a Webcam mounted on two servo motors tracking the face of human. Used OpenCV and Arduino Uno for controlled motion of webcam in the 3 degrees of freedom.  
 
 
-
-
+### Contact
+  
