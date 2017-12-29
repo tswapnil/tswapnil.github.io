@@ -14,6 +14,7 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 ### Projects and Research
 - **SAT Solver – Automated Reasoning in AI**
   Wrote a custom SAT Solver by implementing DPLL and CDCL algorithms. C++. [Link](https://github.com/tswapnil/SAT-Solver)
+  
 - **Stance Detection on News Articles** 
   Worked on aligning headlines and articles by extracting textual and similarity based features. [Report](https://github.com/tswapnil/Resume/blob/master/stance-detection-news.pdf) 
   Impact: Achieved 92% accuracy with a SVM classifier and a Multi Layered Perceptron. 
@@ -57,4 +58,4 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 
 
 ### Contact
-  
+  Why not just shoot me a nice [email](tanejaswapnil@gmail.com).
