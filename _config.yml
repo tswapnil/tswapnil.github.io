@@ -1,2 +1,7 @@
 theme: jekyll-theme-dinky
 title: My Profile
+plugins:
+  - jekyll-redirect-from
+---
+redirect_from: "https://github.com/tswapnil/"
+---
