@@ -3,8 +3,8 @@
    I am a CSE grad student at UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve problems algorithmically. 
    
 ### Resume
-
-Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
+```markdown
+Checkout my resume``` [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
 
 
 ### Projects and Research
