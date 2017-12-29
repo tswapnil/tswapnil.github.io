@@ -6,7 +6,6 @@
 
 Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
 
-```markdown
 
 ### Projects
 **Bold**
@@ -55,4 +54,4 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 
 
 
-```
+
