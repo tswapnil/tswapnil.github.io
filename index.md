@@ -1,6 +1,6 @@
 ## Welcome to Swapnil Taneja's page
 
-   I am a CSE grad student at UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve real life problems algorithmically. 
+   I am a software engineer at Snowflake Computing. I am also CSE grad student from UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve real life problems algorithmically. 
    
 - Riddle me this - 
    Voiceless it cries,
@@ -12,6 +12,9 @@
 Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
 
 ### Projects and Research
+- **AI team at UCSD**
+  Currently I am also doing RL research with the AI team led by Prof. Sicun Gao at UCSD . We are solving control problems using RL. 
+  
 - **SAT Solver – Automated Reasoning in AI**
   Wrote a custom SAT Solver by implementing DPLL and CDCL algorithms. C++. [Link](https://github.com/tswapnil/SAT-Solver)
   
