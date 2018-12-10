@@ -9,7 +9,7 @@
    Mouthless mutters.
    
 ### Resume
-Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume.pdf)
+Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume%20%20SE.pdf)
 
 ### Projects and Research
 - **AI team at UCSD**
