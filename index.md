@@ -13,7 +13,7 @@ Checkout my resume [here](https://github.com/tswapnil/uploads/blob/master/Resume
 
 ### Projects and Research
 - **AI team at UCSD**
-  Currently I am also doing RL research with the AI team led by Prof. Sicun Gao at UCSD . We are solving control problems using RL. 
+  Worked on a Q-learning control RL algorithm with guidance from Prof. Sicun Gao at UCSD . 
   
 - **SAT Solver – Automated Reasoning in AI**
   Wrote a custom SAT Solver by implementing DPLL and CDCL algorithms. C++. [Link](https://github.com/tswapnil/SAT-Solver)
