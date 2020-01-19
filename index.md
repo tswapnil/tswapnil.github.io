@@ -1,6 +1,6 @@
 ## Welcome to Swapnil Taneja's page
 
-   I am a software engineer at Snowflake Computing. I am also CSE grad student from UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Machine Learning at scale. I love to solve real life problems algorithmically. 
+   I am a software engineer at Snowflake Computing. I have done my Masters in CSE from UCSD. I have interned at Twitter and worked at Oracle . My research interests lie in the field of Databases and Machine Learning at scale. I like to create and build distributed software that runs on cloud. I primarly code distributed software in Java and Python.  
    
 - Riddle me this - 
    Voiceless it cries,
